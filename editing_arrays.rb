@@ -14,5 +14,5 @@ def add_colors
   change_rainbow_colors.push("blue")
   return RAINBOW_COLORS
 end
-add_colors
+# add_colors
 
